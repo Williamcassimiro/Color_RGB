@@ -35,11 +35,13 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 #colorBars > div > span {
   margin-bottom: 10px;
   font-size: 1.4em;
   color: rgb(216, 216, 216);
+  
 }
 #r-value, #g-value, #b-value {
   width: 40px;
@@ -62,4 +64,16 @@ h2 {
   margin-top: 20px;
   border-radius: 10%;
   border: solid rgb(236, 236, 236);
+}
+.txt1{
+  font-size: 25px;
+  color:red;
+}
+.txt2{
+  font-size: 25px;
+  color:green;
+}
+.txt3{
+  font-size: 25px;
+  color:blue;
 }
